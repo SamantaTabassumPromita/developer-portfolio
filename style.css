@@ -63,6 +63,7 @@ h1{
     border-left: 5px solid tomato;
     padding:50px;
     box-shadow: 20px 20px 60px gray;
+    border-radius: 15px;
 }
 #left{
     border-left: 5px solid tomato; 
