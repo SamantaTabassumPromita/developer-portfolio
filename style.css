@@ -84,3 +84,6 @@ footer{
     text-align: center;
     padding: 40px;
 }
+.card h2{
+    font-size: 35px;
+}
